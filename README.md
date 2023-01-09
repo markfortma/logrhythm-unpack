@@ -66,4 +66,4 @@ Developed using Rust.
 
 ## Author
 
-[Matt Markfort](mailto:matthew.markfort@gmail.com)
+[Matt Markfort](https://paypal.me/markfortma)
