@@ -8,7 +8,7 @@ send them to a remote location for further review by a client.
 ## Usage
 
 ```
-luca.exe [options] path/to/file.lua [path/to/file.lca path/to/ ...]
+luca[.exe] [options] path/to/file.lua [path/to/file.lca path/to/ ...]
 
 Extract matching logs from LCA and LUA files and send them to a .txt file,
 directory containing .txt for each log source, or TCP/UDP/TLS endpoint.
@@ -49,6 +49,10 @@ Options:
                (Explanation: LUA files are considered hot storage. Prefer LCA, aka warm/cold)
 ```
 
+## Language
+
+Developed using Rust.
+
 ## Test Environments
 
 ### Windows
@@ -62,4 +66,4 @@ Options:
 
 ## Author
 
-[Matt Markfort](mailto:matthew.markfort@gmail.com)
+[Matt Markfort](https://paypal.me/markfortma)
