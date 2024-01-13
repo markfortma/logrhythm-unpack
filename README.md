@@ -51,7 +51,7 @@ Options:
 
 ## Language
 
-Developed using Rust.
+Developed using Rust/v1.57.0.
 
 ## Test Environments
 
@@ -62,7 +62,7 @@ Developed using Rust.
 
 ### Linux
 
-1. Fedora Server 37
+1. Fedora Server 39
 
 ## Author
 
