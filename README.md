@@ -61,11 +61,6 @@ Developed using Rust/v1.57.0.
 2. Windows 11
 3. Windows Server 2022
 
-### Linux
-
-1. Fedora Server 39
-2. Fedora Server 40
-
 ## Author
 
 [Matt Markfort](https://paypal.me/markfortma)
