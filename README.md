@@ -51,7 +51,7 @@ Options:
 
 ## Language
 
-Developed using Rust/v1.57.0.
+Developed using Rust/v1.75.0.
 
 ## Test Environments
 
